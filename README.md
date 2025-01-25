@@ -52,6 +52,8 @@ Puede visualizar listado de nombres entrantes
 Para seleccionar en forma aleatoria un amigo, oprima boton **Sortear Amigo**
 ![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/sortear_amigo.GIF)
 
+Aqui mostrará el nombre del amigo sorteado, en un color **verde**
+
 ## Otras funcionalidades
   + Pueden digitar el nombre en combinación mayúsculas y/o minúsculas, el programa pasa a Camel Case, el nombre digitado.
   + Verifica que no se digite nombres repetidos o nombres en blanco.
