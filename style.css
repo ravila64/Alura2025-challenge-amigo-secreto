@@ -1,7 +1,7 @@
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #ecc413;
+    --color-tertiary: #13ec6d;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;
@@ -108,7 +108,8 @@ body {
 button {
     padding: 15px 30px;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-weight: bold;
+    font-size: 20px;
     border: 2px solid #000;
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -122,7 +123,7 @@ button {
 }
 
 .button-add:hover {
-    background-color: #9de60b;
+    background-color: #f17a18;
 }
 
 /* Listas */
