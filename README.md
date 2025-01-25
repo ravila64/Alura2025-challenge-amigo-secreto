@@ -1,5 +1,5 @@
 <h1 align="center">Alura2025-challenge-amigo-secreto</h1>
-![challenge amigo secreto](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets/amigo-secreto.png)
+![challenge amigo secreto](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/amigo-secreto.jpg)
 
 ## Contenido
 
