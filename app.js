@@ -14,6 +14,7 @@ function agregarAmigo(){
     console.log("Nombre amigo ", nombreAmigo);
     if (nombreAmigo===null || nombreAmigo==='') {
         alert("Por favor colocar nombres validos sin  blancos ");
+        return;
     }
     nombreAmigo = camelCase(nombreAmigo);
     // validar si existe amigo
@@ -71,4 +72,16 @@ function validaRepetidos(nombre){
 }
 
 // funcion para sortear amigos
-let numeroAmigos = listaAmigosSorteados.length;
+function sortearAmigo(){
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = "";
+    let numeroAmigos = listaAmigosSorteados.length;
+    let alAzar =  Math.trunc(Math.random()*numeroAmigos);
+    console.log(numeroAmigos, alAzar);
+    let seleccionado = listaAmigosSorteados[alAzar];
+    console.log("Amigo sorteado ", seleccionado);
+    // Crea un nuevo elemento <li>
+    const amigoAzar = document.createElement('li');
+    amigoAzar.textContent = seleccionado; // Establece el texto del <li>
+    resultado.appendChild(amigoAzar);
+}
