@@ -42,8 +42,15 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ## Cómo pueden usarlo los usuarios
 
-![challenge amigo secreto](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/amigo-secreto.jpg)
+![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/digite_nombre.GIF)
 
+Aqui pueden ir digitando los **nombres** de los amigos, para cada uno seleccionar boton **"Adicionar"**, y van quedando en un listado debajo de la captura. El programa valida que usted no digite nombres en blanco, o digite nombres repetidos.
+
+Puede visualizar listado de nombres entrantes
+![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/listado.GIF)
+
+Para seleccionar en forma aleatoria un amigo, oprima boton **Sortear Amigo**
+![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/sortear_amigo.GIF)
 
 ## :construction: Donde los usuarios pueden encontrar ayuda sobre su proyecto
 
