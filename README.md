@@ -18,6 +18,7 @@
 
 [Despliegue App](#despliegue-app)
 
+[Despliegue con codigo QR](#despliegue-con-codigo-qr)
 
 ## Introducción
 
@@ -47,10 +48,10 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 Aqui pueden ir digitando los **nombres** de los amigos, para cada uno seleccionar boton **"Adicionar"**, y van quedando en un listado debajo de la captura. El programa valida que usted no digite nombres en blanco, o digite nombres repetidos.
 
 Puede visualizar listado de nombres entrantes
-![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/listado.GIF)
+![listado nombres entrantes](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/listado.GIF)
 
 Para seleccionar en forma aleatoria un amigo, oprima boton **Sortear Amigo**
-![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/sortear_amigo.GIF)
+![Sortear amigo](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/sortear_amigo.GIF)
 
 Aqui mostrará el nombre del amigo sorteado, en un color **verde**
 
@@ -65,3 +66,7 @@ Aqui mostrará el nombre del amigo sorteado, en un color **verde**
 ## Despliegue App
 
 [Despliegue App](https://ravila64.github.io/Alura2025-challenge-amigo-secreto/)
+
+## Despliegue con codigo QR
+
+![Codigo QR](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/codigo-qr.GIF)
