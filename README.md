@@ -1,7 +1,10 @@
 <h1 align="center">Alura2025-challenge-amigo-secreto</h1>
+
 ![challenge amigo secreto](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/amigo-secreto.jpg)
 
 ## Contenido
+
+[Introducción](#introducción)
 
 [Descripción del proyecto](#descripción-del-proyecto)
 
@@ -16,16 +19,11 @@
 [Despligue App](#despliegue-app)
 
 
-** borrar
-[Estructura de la App](#estructura-de-la-app)
-[Visualización](#visualización)
-[Tecnología](#tecnologia)
-[Características](#caracteristicas)
-[Bibliografia](#bibliografia)
-** borrar
-
 ## Introducción
 
+El README es esencial para comunicar cómo utilizar y entender un proyecto. Este archivo es el punto de referencia inicial para cualquier persona interesada en entender tu proyecto. Un buen README incluye información sobre la instalación, dependencias, cómo ejecutar el proyecto, y posibles problemas o soluciones.
+
+Como reto adicional, crea un README para tu proyecto de "Amigo Secreto" detallando sus funcionalidades, incluyendo capturas de pantalla o videos que muestren cómo agregar nombres y realizar el sorteo. Esta práctica mejorará la documentación, y hará que tu proyecto sea más accesible y profesional para la comunidad.
 
 ## Descripción del proyecto
 
@@ -42,7 +40,10 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-## :construction: Cómo pueden usarlo los usuarios
+## Cómo pueden usarlo los usuarios
+
+![challenge amigo secreto](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/amigo-secreto.jpg)
+
 
 ## :construction: Donde los usuarios pueden encontrar ayuda sobre su proyecto
 
@@ -51,8 +52,6 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 Rene Avila Alonso, Bog, Col, January, 2025
 
 ## Otros
-El README es esencial para comunicar cómo utilizar y entender un proyecto. Este archivo es el punto de referencia inicial para cualquier persona interesada en entender tu proyecto. Un buen README incluye información sobre la instalación, dependencias, cómo ejecutar el proyecto, y posibles problemas o soluciones.
 
-Como reto adicional, crea un README para tu proyecto de "Amigo Secreto" detallando sus funcionalidades, incluyendo capturas de pantalla o videos que muestren cómo agregar nombres y realizar el sorteo. Esta práctica mejorará la documentación, y hará que tu proyecto sea más accesible y profesional para la comunidad.
 
 ![imagen top](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-top.GIF)
