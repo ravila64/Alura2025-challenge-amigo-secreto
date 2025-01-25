@@ -74,6 +74,10 @@ function validaRepetidos(nombre){
 // funcion para sortear amigos
 function sortearAmigo(){
     let numeroAmigos = listaAmigosSorteados.length;
+    if (numeroAmigos===0){
+        alert("Por favor registrar amigos, la seleccion esta vacia !!!");
+        return;
+    }
     let alAzar =  Math.trunc(Math.random()*numeroAmigos);
     limpiarSortearAmigos();
     console.log(numeroAmigos, alAzar);
