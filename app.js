@@ -73,10 +73,9 @@ function validaRepetidos(nombre){
 
 // funcion para sortear amigos
 function sortearAmigo(){
-    const resultado = document.getElementById('resultado');
-    resultado.innerHTML = "";
     let numeroAmigos = listaAmigosSorteados.length;
     let alAzar =  Math.trunc(Math.random()*numeroAmigos);
+    limpiarSortearAmigos();
     console.log(numeroAmigos, alAzar);
     let seleccionado = listaAmigosSorteados[alAzar];
     console.log("Amigo sorteado ", seleccionado);
@@ -85,3 +84,10 @@ function sortearAmigo(){
     amigoAzar.textContent = seleccionado; // Establece el texto del <li>
     resultado.appendChild(amigoAzar);
 }
+
+// limpiar sortear amigos
+function limpiarSortearAmigos(){
+    const resultado = document.getElementById('resultado');
+    resultado.innerHTML = "";
+}
+
