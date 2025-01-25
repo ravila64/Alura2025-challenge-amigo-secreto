@@ -10,13 +10,13 @@
 
 [Funcionalidades](#funcionalidades)
 
-[Cómo pueden usarlo los usuarios](#cómo-pueden-usarlo-los-usuarios)
+[Cómo pueden usar la aplicación](#cómo-pueden-usar-la-aplicación)
 
-[Donde los usuarios pueden encontrar ayuda sobre su proyecto](#donde-los-usuarios-pueden-encontrar-ayuda-sobre-su-proyecto)
+[Otras funcionalidades](#otras-funcionalidades)
 
 [Autores del proyecto](#autores-del-proyecto)
 
-[Despligue App](#despliegue-app)
+[Despliegue App](#despliegue-app)
 
 
 ## Introducción
@@ -40,7 +40,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-## Cómo pueden usarlo los usuarios
+## Cómo pueden usar la aplicación
 
 ![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/digite_nombre.GIF)
 
@@ -52,13 +52,11 @@ Puede visualizar listado de nombres entrantes
 Para seleccionar en forma aleatoria un amigo, oprima boton **Sortear Amigo**
 ![Digite nombre](https://github.com/ravila64/Alura2025-challenge-amigo-secreto/blob/main/assets-readme/sortear_amigo.GIF)
 
-## :construction: Donde los usuarios pueden encontrar ayuda sobre su proyecto
-
+## Otras funcionalidades
+  + Pueden digitar el nombre en combinación mayúsculas y/o minúsculas, el programa pasa a Camel Case, el nombre digitado.
+  + Verifica que no se digite nombres repetidos o nombres en blanco.
+  
 ## Autores del proyecto
 
-Rene Avila Alonso, Bog, Col, January, 2025
+**Rene Avila Alonso**, Bog, Col, January, 2025
 
-## Otros
-
-
-![imagen top](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-top.GIF)
